@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" width="560px" alt="coding">
+<p align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" width="860px" alt="coding">
 </p>
 
 <h1 align="center">Hi 👋, I'm Daniel</h1>
