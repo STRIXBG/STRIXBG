@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Website Developer and SA:MP Scripter</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=strixbg&label=Profile%20views&color=0e75b6&style=flat" alt="strixbg" /> </p>
+
 ## 💫 About Me:
 
 🔭 I’m currently working on: [LoS] Life of San Andreas<br>🤝 I’m searching for co-owner for: [LoS] Life of San Andreas<br>🌱 I’m currently learning: PHP Laravel, C# ASP.NET<br>💬 Ask me about: Pawn<br>⚡ Fun fact: I've started scripting in 2014 1st january
