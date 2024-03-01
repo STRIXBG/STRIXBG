@@ -1,38 +1,26 @@
 <p align="center"> <img src="https://www.lambdatest.com/resources/images/news24.gif" width="860px" alt="coding">
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Website Developer and SA:MP Scripter</h3>
+<h3 align="center">Pawn Scripter and IT Student</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=strixbg" alt="strixbg" /></a> </p>
 
-# 💫 About Me:
+- 🌱 I’m currently learning **Python, PHP**
 
-🔭 I’m currently working on: [LoS] Life of San Andreas<br>🤝 I’m searching for co-owner for: [LoS] Life of San Andreas<br>🌱 I’m currently learning: PHP Laravel, C# ASP.NET<br>💬 Ask me about: Pawn<br>⚡ Fun fact: I've started scripting in 2014 1st january
+- 💬 Ask me about **Pawn Game Scripting**
 
+- 📫 How to reach me **didkoandreev2@gmail.com**
 
-## 🌐 Socials:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/didkoandreevofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="didkoandreevofficial" height="30" width="40" /></a>
+</p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/didkoandreevofficial#5949) 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-# 💻 Tech Stack:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strixbg&show_icons=true&locale=en&layout=compact" alt="strixbg" /></p>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=STRIXBG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=STRIXBG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=STRIXBG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=STRIXBG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=STRIXBG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=STRIXBG&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=STRIXBG&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strixbg&show_icons=true&locale=en" alt="strixbg" /></p>
