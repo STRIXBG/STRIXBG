@@ -22,7 +22,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap)
 
 ### 📈 GitHub Stats:
-![STRIXBG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=STRIXBG&show_icons=true&theme=dark)
+![GitHub stars](https://img.shields.io/github/stars/твое_потребителско_име/репо?style=social)
+![GitHub stars](https://github-readme-stats.vercel.app/api?username=STRIXBG&show_icons=true&theme=dark)
 
 ### 🎮 Pinned Projects:
 - **[GTA-SAMP-INTENSE](https://github.com/DanielStrixDev/GTA-SAMP-INTENSE)** - Bulgarian RP/Gangwars Gamemode
