@@ -22,8 +22,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=for-the-badge&logo=bootstrap)
 
 ### 📈 GitHub Stats:
-![GitHub stars](https://img.shields.io/github/stars/DanielStrixDev/репо?style=social)
-![GitHub stars](https://github-readme-stats.vercel.app/api?username=DanielStrixDev&show_icons=true&theme=dark)
+![GitHub Followers](https://img.shields.io/github/followers/DanielStrixDev?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/DanielStrixDev?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=DanielStrixDev&color=blue)
 
 ### 🎮 Pinned Projects:
 - **[GTA-SAMP-INTENSE](https://github.com/DanielStrixDev/GTA-SAMP-INTENSE)** - Bulgarian RP/Gangwars Gamemode
