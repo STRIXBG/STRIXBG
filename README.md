@@ -1,4 +1,4 @@
-## Hi 👋, I'm Daniel (STRIXBG)
+## Hi 👋, I'm Daniel
 
 ### 🌟 About Me:
 - 👨‍💻 **Ecommerce Developer & PHP Developer**
@@ -9,7 +9,7 @@
 
 ### 🔗 Connect with me:
 - **Email:** didkoandreev2@gmail.com
-- **GitHub:** [STRIXBG](https://github.com/STRIXBG)
+- **GitHub:** [DanielStrixDev](https://github.com/DanielStrixDev)
 - **Discord:** didkoandreevofficial
 
 ### 💻 Languages & Tools:
@@ -25,12 +25,12 @@
 ![STRIXBG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=STRIXBG&show_icons=true&theme=dark)
 
 ### 🎮 Pinned Projects:
-- **[GTA-SAMP-INTENSE](https://github.com/STRIXBG/GTA-SAMP-INTENSE)** - Bulgarian RP/Gangwars Gamemode
-- **[GTA-SAMP-TELNET-BG](https://github.com/STRIXBG/GTA-SAMP-TELNET-BG)** - Replicas of GTABG.NET systems
-- **[LawLess-Roleplay](https://github.com/STRIXBG/LawLess-Roleplay)** - SA:MP Roleplay Gamemode
-- **[Red-County-Roleplay](https://github.com/STRIXBG/Red-County-Roleplay)** - Base for SA:MP Gamemode
-- **[Shumen-University-Programming](https://github.com/STRIXBG/Shumen-University-Programming)** - University programming tasks (C++)
-- **[SoftUni](https://github.com/STRIXBG/SoftUni)** - SoftUni Judge Problems (C#)
+- **[GTA-SAMP-INTENSE](https://github.com/DanielStrixDev/GTA-SAMP-INTENSE)** - Bulgarian RP/Gangwars Gamemode
+- **[GTA-SAMP-TELNET-BG](https://github.com/DanielStrixDev/GTA-SAMP-TELNET-BG)** - Replicas of GTABG.NET systems
+- **[LawLess-Roleplay](https://github.com/DanielStrixDev/LawLess-Roleplay)** - SA:MP Roleplay Gamemode
+- **[Red-County-Roleplay](https://github.com/DanielStrixDev/Red-County-Roleplay)** - Base for SA:MP Gamemode
+- **[Shumen-University-Programming](https://github.com/DanielStrixDev/Shumen-University-Programming)** - University programming tasks (C++)
+- **[SoftUni](https://github.com/DanielStrixDev/SoftUni)** - SoftUni Judge Problems (C#)
 
 💪 Always working on new and exciting projects!
 
